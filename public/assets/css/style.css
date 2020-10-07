@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(255, 255, 0, 0.322);
+}
+
+h1, h2, button, .form-group{
+    text-align: center;
+}
+
+.section {
+    float: left;
+    margin: auto;
+    width: 33%;
+}
+
+
+.form-group {
+    
+}
