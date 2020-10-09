@@ -37,4 +37,4 @@
   Github Repository: https://github.com/dfabert  
   Any further questions, please e-mail me at:  df.webdev@gmail.com
   
-  
+  ![Deployed Image](https://dfabert.github.io/BurgersToEat/public/assets/img/deployed.jpg)
